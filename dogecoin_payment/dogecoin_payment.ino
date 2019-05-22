@@ -1,9 +1,9 @@
-/*************************************
+/***************************************************************
 * NodeJS Dogecoin IoT
 * Autor: Guilherme Lirio Tomasi de Oliveira
-* Obs: Exemplo de integração de socket.io
-* com DogeCoin
-************************************/
+* Obs: Exemplo de integração de socket.io com DogeCoin
+* Link: https://github.com/guilhermelirio/nodejs-dogecoin-iot
+**************************************************************/
 
 #include <ESP8266WiFi.h>
 #include <SocketIOClient.h>
