@@ -11,3 +11,5 @@ Example of a Dogecoin wallet tracking system via websocket.
 - Compile.
 - Make a transaction for the changed dogecoin address in index.js
 
+# Make a donation
+`DBurLx1z9jKTK1gXyoWG9EH65euaZza8B6`
